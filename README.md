@@ -1,4 +1,4 @@
-<img src="[https://github.com/NiteeshK21/pvt/blob/main/Hello,%20I'm%20Niteesh%20(1).png?raw=true](https://github.com/NiteeshK21/pvt/blob/main/Hello,%20I'm%20Niteesh%20(2).png?raw=true)">
+<img src="https://github.com/NiteeshK21/pvt/blob/main/Hello,%20I'm%20Niteesh%20(2).png?raw=true">
 <img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 I'm currently a 2nd year BTech CSE student with an emphasis in Data Science.
