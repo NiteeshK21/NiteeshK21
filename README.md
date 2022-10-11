@@ -15,9 +15,7 @@ I'm currently a 2nd year BTech CSE student at SRM University AP. I have a passio
 <img src="https://img.shields.io/badge/-Trino-black?style=flat-square&logo=Trino"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></p>
-<h2 align="center">
-  My Contributions <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
