@@ -34,8 +34,9 @@ I'm currently a 2nd year BTech CSE student at SRM University AP. I have a passio
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=NiteeshK21&theme=redical">
-</p> 
-<hr>
+</p>
+
+[![@niteeshk's Holopin board](https://holopin.io/api/user/board?user=niteeshk)](https://holopin.io/@niteeshk)
 <p align="center">If you like it, do fork and star ⭐</p>
 
 
